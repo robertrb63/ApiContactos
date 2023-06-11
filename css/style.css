@@ -1,0 +1,16 @@
+*{
+    margin:2em;
+}
+
+body{
+  margin: 5em;  
+}
+
+h1{
+    margin-bottom: 1em;
+}
+
+.table{
+    margin-top: 2em;
+    text-align: center;
+}
